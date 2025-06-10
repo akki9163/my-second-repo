@@ -4,4 +4,4 @@ do
 {
 	console.log(subject[i])
 	i++;
-}while (i<subject.lenght);
+}while (i<subject.lenght)
