@@ -1,7 +1,8 @@
 let subject=["physics","maths","biology","chemistry","IT"]
-let i =1
-do
+let i=0
+while(i<subject.length)
+//while(true)
 {
-	console.log(subject[i])
-	i++;
-}while (i <subject.length)
+	console.log(subject[i]);
+	i++
+}
